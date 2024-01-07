@@ -1,0 +1,14 @@
+D:\Documents\Code\JatekFeladat\JatekFeladat\obj\Debug\net6.0\JatekFeladat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Code\JatekFeladat\JatekFeladat\obj\Debug\net6.0\JatekFeladat.AssemblyInfoInputs.cache
+D:\Documents\Code\JatekFeladat\JatekFeladat\obj\Debug\net6.0\JatekFeladat.AssemblyInfo.cs
+D:\Documents\Code\JatekFeladat\JatekFeladat\obj\Debug\net6.0\JatekFeladat.csproj.CoreCompileInputs.cache
+D:\Documents\Code\JatekFeladat\JatekFeladat\bin\Debug\net6.0\JatekFeladat.exe
+D:\Documents\Code\JatekFeladat\JatekFeladat\bin\Debug\net6.0\JatekFeladat.deps.json
+D:\Documents\Code\JatekFeladat\JatekFeladat\bin\Debug\net6.0\JatekFeladat.runtimeconfig.json
+D:\Documents\Code\JatekFeladat\JatekFeladat\bin\Debug\net6.0\JatekFeladat.dll
+D:\Documents\Code\JatekFeladat\JatekFeladat\bin\Debug\net6.0\JatekFeladat.pdb
+D:\Documents\Code\JatekFeladat\JatekFeladat\obj\Debug\net6.0\JatekFeladat.dll
+D:\Documents\Code\JatekFeladat\JatekFeladat\obj\Debug\net6.0\refint\JatekFeladat.dll
+D:\Documents\Code\JatekFeladat\JatekFeladat\obj\Debug\net6.0\JatekFeladat.pdb
+D:\Documents\Code\JatekFeladat\JatekFeladat\obj\Debug\net6.0\JatekFeladat.genruntimeconfig.cache
+D:\Documents\Code\JatekFeladat\JatekFeladat\obj\Debug\net6.0\ref\JatekFeladat.dll
